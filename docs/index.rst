@@ -19,4 +19,3 @@ Welcome to Bindunity Network Documentation's documentation!
 
    * :doc:`contents`
    * :ref:`genindex`
-

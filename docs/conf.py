@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Japan Minecraft PvP Documentation documentation build configuration file, created by
+# Bindunity Network Documentation documentation build configuration file, created by
 # sphinx-quickstart on Sun Dec  6 19:54:00 2015.
 #
 # This file is execfile()d with the current directory set to its

@@ -6,15 +6,17 @@
 Welcome to Bindunity Network Documentation's documentation!
 ===========================================================
 
+コンテンツ:
+
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
 
+   yaml/index
+   toml/index
+   json/index
 
+.. seealso::
 
-Indices and tables
-==================
+   * :doc:`contents`
+   * :ref:`genindex`
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

@@ -5,5 +5,5 @@ YAML定義ファイルはXML定義ファイルに変換するためのファイ�
 
 Japan Minecraft PvPで使用するXML定義ファイルに私が作ったツールと使うことで変換が可能です。
 
-`Download Link <https://www.dropbox.com/sh/bwr4w91rbn0vnp8/AAC8HSIjqPk1ezyiBt7IacaJa?dl=0>`_
+`Download Link <https://github.com/BindunityNetwork/to-xml>`_
 

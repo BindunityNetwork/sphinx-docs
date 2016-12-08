@@ -15,3 +15,6 @@ Japan Minecraft PvPで使用するXML定義ファイルに私が作ったツー�
    script
    tutorial
    gamemode
+   filters_regions
+   game_settings
+   block_settings

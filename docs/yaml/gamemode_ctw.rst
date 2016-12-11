@@ -67,6 +67,6 @@ wool ハッシュ説明
     :header: "ハッシュ", "説明", "値"
     :widths: 15, 10, 20
 
-    "``block``", 羊毛を設置する座標です。 Regionで指定します。, :doc:`Region </yaml/regions.html>`
-    "``team``", 羊毛を設置する側のチーム名です。, `Chat Color <http://pvp-docs.minecraft.jp/ja/latest/data/chatcolor>`_
-    "``color``", 設置する羊毛の色です。羊毛の色はDyeColorをご覧ください。, `Dye Color <http://pvp-docs.minecraft.jp/ja/latest/data/dyecolor>`_
+    "``block``", 羊毛を設置する座標です。 Regionで指定します。, :doc:`Region </yaml/regions>`
+    "``team``", 羊毛を設置する側のチーム名です。, `Chat Color <http://pvp-docs.minecraft.jp/ja/latest/data/chatcolor.html>`_
+    "``color``", 設置する羊毛の色です。羊毛の色はDyeColorをご覧ください。, `Dye Color <http://pvp-docs.minecraft.jp/ja/latest/data/dyecolor.html>`_

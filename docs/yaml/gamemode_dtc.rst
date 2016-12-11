@@ -42,7 +42,7 @@ Example
     :header: "ハッシュ", "説明","値"
     :widths: 15, 10, 20
 
-    "``material``", 	時間経過によるブロック変化を起こすブロックを決めます。, `Material <http://pvp-docs.minecraft.jp/ja/latest/data/material>`_
+    "``material``", 	時間経過によるブロック変化を起こすブロックを決めます。, `Material <http://pvp-docs.minecraft.jp/ja/latest/data/material.html>`_
     "``leak``", 	溶岩の流す長さを指定します。指定した数字以上の流れが発生すると試合が終わります。, "`Number`"
 
 注意事項

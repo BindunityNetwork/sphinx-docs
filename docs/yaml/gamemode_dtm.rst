@@ -63,7 +63,7 @@ destroyables ハッシュ説明
    :header: 属性, 説明, 値
    :widths: 10, 80, 10
 
-   "``materials``", ``必須`` モニュメントのMaterialを指定します。, `Material <http://pvp-docs.minecraft.jp/ja/latest/data/material>`_
+   "``materials``", ``必須`` モニュメントのMaterialを指定します。, `Material <http://pvp-docs.minecraft.jp/ja/latest/data/material.html>`_
    "``completion``", 目標の達成に必要なパーセンテージを指定します。, "`Number`"
 
 destroyable ハッシュ説明
@@ -72,5 +72,5 @@ destroyable ハッシュ説明
    :header: 属性, 説明, 値
    :widths: 10, 80, 10
 
-   "``owner``", ``必須`` モニュメントのオーナーを指定します。 ``team`` ハッシュの ``color`` キーに入力した値を指定してください。, `Material <http://pvp-docs.minecraft.jp/ja/latest/data/material>`_
+   "``owner``", ``必須`` モニュメントのオーナーを指定します。 ``team`` ハッシュの ``color`` キーに入力した値を指定してください。, `Material <http://pvp-docs.minecraft.jp/ja/latest/data/material.html>`_
    "``name``", モニュメントの名前を指定します。, 文字列
